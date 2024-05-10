@@ -1,2 +1,4 @@
 .env
 archivoaIgnorar.txt
+carpetaIgnorada/
+!carpetaIgnorada/noIgnorar1.txt
