@@ -1,0 +1,3 @@
+Este es un ejemplo para practicar git diff
+esta es la segunda linea del codigo de practica
+
